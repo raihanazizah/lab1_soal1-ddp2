@@ -1,0 +1,10 @@
+# File Java
+*.class
+
+# Log
+*.log
+
+# Folder IDE
+.vscode/
+.idea/
+
