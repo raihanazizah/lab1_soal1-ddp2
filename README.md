@@ -1,2 +1,2 @@
-# lab1_soal1-ddp2
-buat soal 1
+# lab1-ddp2
+buat soal 1-3
