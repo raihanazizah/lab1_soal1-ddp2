@@ -15,11 +15,12 @@ public class TanyaJawab {
         int end = start + 1 + acak.nextInt(kalimat.length() - start - 1); //index kalimat akhir
 
         //kasih pertanyaan
-        System.out.println(""); //for space
+        System.out.println(" "); //for space
         System.out.println("Apa substring dari index " + start + " hingga " + end + "?");
 
         //menerima jawaban dari user
         String jawaban = baca.nextLine();
+        System.out.println(" "); //for space
 
         //ambil substring yang benar
         String benar = kalimat.substring(start, end + 1);
